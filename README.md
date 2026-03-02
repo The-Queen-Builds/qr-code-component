@@ -32,5 +32,5 @@ I am so happy to discover the magic of wrapping divs, they are used in the strat
 ## Author
 
 - Website - [Esther Chinecherem Layefa]
-- Frontend Mentor - [@Esther-ess](https://www.frontendmentor.io/profile/Esther-ess)
-- Twitter - [@Chinecherem014](https://www.twitter.com/Chinecherem014)
+- Frontend Mentor - [@The-Queen-Builds](https://www.frontendmentor.io/profile/The-Queen-Builds)
+- Twitter - [@EbimoboereLaye](https://www.twitter.com/EbimoboereLaye)
